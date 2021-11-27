@@ -30,7 +30,7 @@
 <br />
 
 ---
-<p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canokan917" alt="gkandemir" /></a></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canokan917&show_icons=true&locale=en&layout=compact" alt="canokan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canokan917&show_icons=true&locale=en" alt="canokan" width="50%" /></p><br />
 <br />
