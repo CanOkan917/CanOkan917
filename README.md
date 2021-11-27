@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Can OKAN
-#### A Software Engineer in living in Turkey for now!
+#### A Student in living in Turkey for now!
 
 <img align="right" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320" />  
 
