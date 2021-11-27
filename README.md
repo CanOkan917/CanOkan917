@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Can OKAN
 #### A Student in living in Turkey for now!
 
-<img align="right" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320" />  
-
 - 👉  https://team3390.com
 
 ### Connect with me:
