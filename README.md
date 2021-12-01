@@ -4,7 +4,7 @@
 - 👉  https://team3390.com
 
 ### Connect with me:
-[<img align="left" alt="gökhan-kandemir | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/tamadaminasordun)
+[<img align="left" alt="can-okan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCeo23US5AZyKlGNanT5wIBQ)
 [<img align="left" alt="can-okan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/can0can07/)
 <br />
 <br />
