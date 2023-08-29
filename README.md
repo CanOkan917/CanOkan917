@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Can OKAN
 #### A Student in living in Turkey for now!
 
+- 👉  https://www.okancore.com
 - 👉  https://team3390.com 🖤💛
 - 👉  https://ejderoglu.com
 - 👉  https://webdekimenum.com
